@@ -27,21 +27,19 @@ Reactillo is a simplified apartment rental platform. It allows users to register
 - View and manage only their own properties.
 
 ## Tech Stack
+- **Vite**
 - **TypeScript**
 - **JavaScript**
 - **React**
-- **StyledComponents**
+- **React Context**
+- **React Hook Form**
 - **ReactQuery**
 - **ReactRouter**
-- **CSS**
-- **Vite**
-- **Toast**
-- **Context**
-- **React Hook Form**
-- **Supabase**
 - **Lazy Loading**
 - **React Icons**
 - **React Toasts**
+- **StyledComponents**
+- **Supabase**
 
 ## Core Functionalities
 - Users can register and authenticate.
