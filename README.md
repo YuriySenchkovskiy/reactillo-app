@@ -6,8 +6,6 @@
 Reactillo is a simplified apartment rental platform. It allows users to register and sign in, choose roles (regular user or realtor), and perform various actions based on their role.
 
 - Reactillo: https://reactilloapp.netlify.app/
-- Insparation: https://www.zillow.com/
-- Video about project: https://www.youtube.com/watch?v=ucNw-mKPuno
 - Project documentation: https://reactillo-docs.netlify.app/
 
 ## Features
